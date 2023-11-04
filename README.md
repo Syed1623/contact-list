@@ -1,9 +1,5 @@
 # Contact List App
 
-## Deployed Link
-
-## https://contact-list-gamma-ecru.vercel.app/
-
 ### ReactJS and CSS Has been used for this app.
 
 In the project directory, you can run:
